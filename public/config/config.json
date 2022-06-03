@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0x827acb09a2dc20e39c9aad7f7190d9bc53534192",
-  "SCAN_LINK": "https://polygonscan.com/token/0x827acb09a2dc20e39c9aad7f7190d9bc53534192",
+  "CONTRACT_ADDRESS": "0x624B1EdAdF032916e86D821d2D08aae6E740493b ",
+  "SCAN_LINK": "https://rinkeby.etherscan.com/token/0x624B1EdAdF032916e86D821d2D08aae6E740493b ",
   "NETWORK": {
-    "NAME": "Polygon",
-    "SYMBOL": "Matic",
-    "ID": 137
+    "NAME": "Ethereum",
+    "SYMBOL": "Eth",
+    "ID": 4
   },
-  "NFT_NAME": "Nerdy Coder Clones",
-  "SYMBOL": "NCC",
-  "MAX_SUPPLY": 1000,
-  "WEI_COST": 75000000000000000,
-  "DISPLAY_COST": 0.075,
+  "NFT_NAME": "Vampirestown.wtf",
+  "SYMBOL": "VAMPIRE",
+  "MAX_SUPPLY": 6666,
+  "WEI_COST": 5000000000000000,
+  "DISPLAY_COST": 0.005,
   "GAS_LIMIT": 285000,
-  "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/nerdy-coder-clones",
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/Vampirestown",
   "SHOW_BACKGROUND": true
 }
